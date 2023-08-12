@@ -1,0 +1,13 @@
+textarea{
+    background-color: aqua;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    columns: 3;
+    font-size: 15px;
+    color: black;
+}
+
+/* #player1_1{
+    background-color: aqua;
+} */
